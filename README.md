@@ -1,7 +1,6 @@
 # Storytelling Inclusivo: Dando Voz a Todas as Crianças
 
 ![Exemplo de História](https://github.com/Pablopinheiroo/storytelling_inclusivo_DandoVozATodasAsCriancas/blob/main/gatofofo.png)
-![Exemplo de História](https://github.com/Pablopinheiroo/storytelling_inclusivo_DandoVozATodasAsCriancas/blob/main/img.png)
 
 Imagine um universo onde cada criança é transportada para um mundo de magia e aventura através de histórias feitas sob medida para elas. O Storytelling Mágico é uma iniciativa que utiliza a API do Google Gemini para criar contos encantadores, enriquecidos com elementos visuais e narrativas envolventes.
 
@@ -133,7 +132,8 @@ if assistente_falante:
     engine.runAndWait()
 ```
 
-
+## Imagem:
+![Exemplo de História](https://github.com/Pablopinheiroo/storytelling_inclusivo_DandoVozATodasAsCriancas/blob/main/img.png)
 ## Áudio:
 [Acesse o áudio narrado](https://github.com/Pablopinheiroo/storytelling_inclusivo_DandoVozATodasAsCriancas/blob/main/audio_narrado.mp3)
 
