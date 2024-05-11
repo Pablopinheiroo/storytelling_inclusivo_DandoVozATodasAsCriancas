@@ -3,7 +3,7 @@ import PIL.Image
 import pyttsx3
 
 # Configuração do Google Gemini
-genai.configure(api_key="AIzaSyARCACZ_2uaBVcTO5VDJ_avix-mAgtXvb0")
+genai.configure(api_key="sua_chave_api_aqui")
 
 # Configuração do assistente falante
 assistente_falante = True
